@@ -1,0 +1,18 @@
+{
+  "title": "The Lighthouse Cat",
+  "chapters": [
+    { "name": "The Arrival", "page": 1 },
+    { "name": "The Storm", "page": 4 },
+    { "name": "The Morning After", "page": 7 }
+  ],
+  "pages": [
+    "A small gray cat named Pebble climbed out of a fishing boat and onto the rocky island.",
+    "At the top of the hill stood a tall white lighthouse. Pebble decided it looked like a good home.",
+    "The old keeper, Mr. Orla, opened the door and said, 'You may stay, if you catch the mice.'",
+    "That night, dark clouds rolled in and the wind began to howl around the tower.",
+    "Mr. Orla lit the great lamp, but a gust blew out the flame. The sea below was black.",
+    "Pebble leapt onto the lamp stand and knocked the matchbox to the keeper's feet. He relit the light just in time.",
+    "By morning the storm had passed, and a fishing boat floated safely past the rocks.",
+    "Mr. Orla set out a bowl of cream. Pebble purred. The lighthouse had its cat."
+  ]
+}

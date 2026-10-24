@@ -1,0 +1,55 @@
+{
+    "title": "A Jumbled Mess",
+    "containers": [
+        {
+            "id": 1,
+            "capacity": 4
+        },
+        {
+            "id": 2,
+            "capacity": 3
+        },
+        {
+            "id": 3,
+            "capacity": 1
+        }
+    ],
+    "boxes": [
+        {
+            "id": 1,
+            "description": "apples",
+            "container_id": 1
+        },
+        {
+            "id": 2,
+            "description": "oranges",
+            "container_id": 1
+        },
+        {
+            "id": 3,
+            "description": "apples",
+            "container_id": 1
+        },
+        {
+            "id": 4,
+            "description": "bananas",
+            "container_id": 1
+        },
+
+        {
+            "id": 5,
+            "description": "oranges",
+            "container_id": 2
+        },
+        {
+            "id": 6,
+            "description": "apples",
+            "container_id": 2
+        },
+        {
+            "id": 7,
+            "description": "oranges",
+            "container_id": 2
+        }
+    ]
+}
